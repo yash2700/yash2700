@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **SpringBoot Microservices**
 
-- 👨‍💻 All of my projects are available at [github.com/yash2700](github.com/yash2700)
-
 - 💬 Ask me about **Spring boot, React.**
 
 - 📫 How to reach me **yaswanthreddyboggala@gmail.com**
